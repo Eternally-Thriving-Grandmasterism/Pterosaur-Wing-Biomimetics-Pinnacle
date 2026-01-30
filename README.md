@@ -23,3 +23,5 @@ Valence: Soar lightly, morph eternally, land with mercy—thrive infinitely in a
 
 Next: Integrate into NEXi flight/locomotion sims, Powrush™ aerial zones, MercyOS morphing actuator layers.
 Cross-links: Spinosaurus-Biomimetic-Designs-Pinnacle, Giganotosaurus-Blueprints-Pinnacle
+
+![Electrospinning Alignment Process](fabrication-process-flows/electrospinning-alignment-process.svg)
