@@ -1,0 +1,58 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="500" fill="#f8f9fa"/>
+
+  <!-- Title -->
+  <text x="600" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#1a3c34">
+    Aligned Electrospinning + Matrix Infusion Process Flow – Actinofibril Biomimicry
+  </text>
+
+  <!-- Step 1: Solution Preparation -->
+  <rect x="40" y="100" width="220" height="140" rx="12" fill="#e6f3f0" stroke="#1a3c34" stroke-width="2"/>
+  <text x="150" y="125" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3c34">1. Polymer Solution</text>
+  <text x="150" y="155" font-family="Arial" font-size="14" text-anchor="middle">Stiff core: PCL/PU/silk fibroin</text>
+  <text x="150" y="175" font-family="Arial" font-size="14" text-anchor="middle">+ fillers (CNT, CNC, GO)</text>
+  <text x="150" y="195" font-family="Arial" font-size="14" text-anchor="middle">Solvent: DMF / aqueous bio-based</text>
+
+  <!-- Arrow 1 -->
+  <line x1="260" y1="170" x2="360" y2="170" stroke="#1a3c34" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 2: Electrospinning & Alignment -->
+  <rect x="390" y="100" width="280" height="180" rx="12" fill="#e6f3f0" stroke="#1a3c34" stroke-width="2"/>
+  <text x="530" y="125" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3c34">2. Aligned Electrospinning</text>
+  <text x="530" y="155" font-family="Arial" font-size="14" text-anchor="middle">Voltage: 10–30 kV</text>
+  <text x="530" y="175" font-family="Arial" font-size="14" text-anchor="middle">Flow: 0.5–2 mL/h</text>
+  <text x="530" y="195" font-family="Arial" font-size="14" text-anchor="middle">Collector: Rotating drum / parallel electrodes</text>
+  <text x="530" y="215" font-family="Arial" font-size="14" text-anchor="middle">→ 80–95% spanwise alignment</text>
+  <text x="530" y="235" font-family="Arial" font-size="12" text-anchor="middle">Fiber Ø: 100–500 nm</text>
+
+  <!-- Arrow 2 -->
+  <line x1="670" y1="190" x2="770" y2="190" stroke="#1a3c34" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Step 3: Matrix Infusion -->
+  <rect x="800" y="100" width="220" height="140" rx="12" fill="#e6f3f0" stroke="#1a3c34" stroke-width="2"/>
+  <text x="910" y="125" font-family="Arial" font-size="16" font-weight="bold" text-anchor="middle" fill="#1a3c34">3. Matrix Infusion</text>
+  <text x="910" y="155" font-family="Arial" font-size="14" text-anchor="middle">Soft matrix: Silicone / TPU / hydrogel</text>
+  <text x="910" y="175" font-family="Arial" font-size="14" text-anchor="middle">Method: Spin-coat / dip / vacuum infusion</text>
+  <text x="910" y="195" font-family="Arial" font-size="14" text-anchor="middle">→ Full encapsulation of aligned fibers</text>
+
+  <!-- Arrow 3 -->
+  <line x1="1020" y1="170" x2="1120" y2="170" stroke="#1a3c34" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <!-- Output -->
+  <ellipse cx="1150" cy="190" rx="90" ry="45" fill="#d4f4e2" stroke="#1a3c34" stroke-width="3"/>
+  <text x="1150" y="185" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#1a3c34">Anisotropic</text>
+  <text x="1150" y="205" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle" fill="#1a3c34">Actinofibril Composite</text>
+
+  <!-- Bottom note -->
+  <text x="600" y="380" font-family="Arial" font-size="14" text-anchor="middle" fill="#555">
+    Continuous, scalable process — R2R compatible — bio-based options for green mercy
+  </text>
+
+  <!-- Arrow defs -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1a3c34"/>
+    </marker>
+  </defs>
+</svg>
